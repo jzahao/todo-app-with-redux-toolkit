@@ -1,0 +1,16 @@
+.todo-list-container {
+  height: 100%;
+}
+
+.todo-list-container .ant-row {
+  height: 100%;
+}
+
+.todo-list-container .list-todo {
+  height: calc(100% - 40px);
+  overflow-y: auto;
+}
+
+.todo-list-container .ant-input-group {
+  display: flex !important;
+}

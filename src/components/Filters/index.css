@@ -1,0 +1,12 @@
+.filter-container .ant-col {
+  margin-bottom: 16px;
+}
+
+.filter-container .ant-typography {
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.filter-container .ant-select {
+  width: 100%;
+}
